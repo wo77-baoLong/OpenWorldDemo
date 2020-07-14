@@ -1,0 +1,21 @@
+Unity5.6 大规模地形加载：主要讲了如何从外部(world machine)工具导入unity，处理原始数据生成TerrainData
+
+https://blog.csdn.net/fcauto2012/article/details/70767973
+https://blog.csdn.net/fcauto2012/article/details/72377565
+https://blog.csdn.net/fcauto2012/article/details/77113639
+
+大地形加载：只针对内置Terrain进行切割组合，切割的每块地形上的物件打包：assets、lightmap。lightmpa索引与物件对应写入离线文件。
+
+https://zhuanlan.zhihu.com/p/39786097
+https://github.com/huailiang/terrain_proj.git
+
+基于Unity3D引擎的大地形加载研究：GDC2107提出的virtual texture
+
+https://github.com/MaxwellGengYF/Unity-MPipeline
+https://www.youtube.com/watch?v=kzthHcbG9IM
+https://zhuanlan.zhihu.com/p/85417843
+https://zhuanlan.zhihu.com/p/83831633
+
+Unity大场景数据加载及优化方案
+
+https://blog.csdn.net/jxw167/article/details/81483685
