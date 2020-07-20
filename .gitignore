@@ -1,5 +1,7 @@
 Temp
 Library
+obj
+Logs
 *.csproj
 *.sln
 *.vs
